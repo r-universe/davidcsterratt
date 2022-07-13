@@ -3,8 +3,26 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "geometry"]
+	path = geometry
+	url = https://github.com/davidcsterratt/geometry
+	shallow = true
+	subdir = pkg
+	registered = true
+[submodule "retistruct"]
+	path = retistruct
+	url = https://github.com/davidcsterratt/retistruct
+	shallow = true
+	subdir = pkg/retistruct
+	registered = true
 [submodule "RImageJROI"]
 	path = RImageJROI
 	url = https://github.com/davidcsterratt/rimagejroi
 	shallow = true
+	registered = true
+[submodule "RTriangle"]
+	path = RTriangle
+	url = https://github.com/davidcsterratt/rtriangle
+	shallow = true
+	subdir = pkg
 	registered = true

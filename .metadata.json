@@ -1,6 +1,18 @@
 [
   {
+    "package": "geometry",
+    "oncran": true
+  },
+  {
+    "package": "retistruct",
+    "oncran": true
+  },
+  {
     "package": "RImageJROI",
+    "oncran": true
+  },
+  {
+    "package": "RTriangle",
     "oncran": true
   }
 ]
