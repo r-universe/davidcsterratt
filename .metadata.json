@@ -1,14 +1,14 @@
 [
   {
+    "package": "RTriangle",
+    "oncran": true
+  },
+  {
     "package": "geometry",
     "oncran": true
   },
   {
     "package": "RImageJROI",
-    "oncran": true
-  },
-  {
-    "package": "RTriangle",
     "oncran": true
   }
 ]
