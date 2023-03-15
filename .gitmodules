@@ -3,12 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "RTriangle"]
-	path = RTriangle
-	url = https://github.com/davidcsterratt/rtriangle
-	shallow = true
-	subdir = pkg
-	registered = true
 [submodule "geometry"]
 	path = geometry
 	url = https://github.com/davidcsterratt/geometry
@@ -19,4 +13,10 @@
 	path = RImageJROI
 	url = https://github.com/davidcsterratt/rimagejroi
 	shallow = true
+	registered = true
+[submodule "RTriangle"]
+	path = RTriangle
+	url = https://github.com/davidcsterratt/rtriangle
+	shallow = true
+	subdir = pkg
 	registered = true
