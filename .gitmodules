@@ -2,14 +2,14 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "geometry"]
-	path = geometry
-	url = https://github.com/davidcsterratt/geometry
-	subdir = pkg
 [submodule "RImageJROI"]
 	path = RImageJROI
 	url = https://github.com/davidcsterratt/rimagejroi
 [submodule "RTriangle"]
 	path = RTriangle
 	url = https://github.com/davidcsterratt/rtriangle
+	subdir = pkg
+[submodule "geometry"]
+	path = geometry
+	url = https://github.com/davidcsterratt/geometry
 	subdir = pkg
