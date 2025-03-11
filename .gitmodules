@@ -13,3 +13,7 @@
 	path = geometry
 	url = https://github.com/davidcsterratt/geometry
 	subdir = pkg
+[submodule "retistruct"]
+	path = retistruct
+	url = https://github.com/davidcsterratt/retistruct
+	subdir = pkg/retistruct
